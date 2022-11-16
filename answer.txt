@@ -1,0 +1,8 @@
+8.Từ branch ở yêu cầu 7, tạo 1 branch feature-tên_bạn-rebase 
+(VD: feauture-sonnt-rebase): -> Branch này sẽ có cả 3 commit trên
+
+-Tại branch feature-duyen-rebase dùng lệnh git branch feature-duyen-rebase để tạo nhánh
+14.Tại Branch ở yêu cầu 10, thực hiện merge với branch ở yêu cầu 7,
+sửa conflict nếu có
+
+- Tại branch feature-duyen-merge sử dụng lệnh git merge feature-duyen để merge 2 branch
