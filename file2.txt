@@ -1,1 +1,3 @@
 Thong tin file2
+
+Sua file2
